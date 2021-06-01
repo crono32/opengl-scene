@@ -1,0 +1,8 @@
+.vs/
+assimp-vc141-mtd.dll
+build/
+intermediate/
+OpenGL_Scene.sln
+OpenGL_Scene.vcxproj
+OpenGL_Scene.vcxproj.filters
+OpenGL_Scene.vcxproj.user
